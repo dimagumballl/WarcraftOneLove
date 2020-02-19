@@ -1,0 +1,8 @@
+.Main{
+  
+    height: 80%;
+
+    border: 35px solid transparent;
+  border-image: url(../../common/imgstyle/Images/orb-borders.png) 35 round;
+  background-image: none;
+}

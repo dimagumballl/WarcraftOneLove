@@ -1,0 +1,8 @@
+.FullSlot{
+    width: 1000px;
+    border: 30px solid transparent;
+    height: 200px;
+  border-image: url(../../common/imgstyle/Images/elf-borders.png) 35 round;
+  background-image: none;
+  margin: auto;
+}

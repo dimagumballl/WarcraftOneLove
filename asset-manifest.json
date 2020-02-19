@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/WarcraftOneLove/static/css/main.0040fbea.chunk.css",
+    "main.js": "/WarcraftOneLove/static/js/main.061cbed3.chunk.js",
+    "main.js.map": "/WarcraftOneLove/static/js/main.061cbed3.chunk.js.map",
+    "runtime-main.js": "/WarcraftOneLove/static/js/runtime-main.117c85a7.js",
+    "runtime-main.js.map": "/WarcraftOneLove/static/js/runtime-main.117c85a7.js.map",
+    "static/js/2.e1225c87.chunk.js": "/WarcraftOneLove/static/js/2.e1225c87.chunk.js",
+    "static/js/2.e1225c87.chunk.js.map": "/WarcraftOneLove/static/js/2.e1225c87.chunk.js.map",
+    "index.html": "/WarcraftOneLove/index.html",
+    "precache-manifest.35c1344dfbec1112f32a41b4314def67.js": "/WarcraftOneLove/precache-manifest.35c1344dfbec1112f32a41b4314def67.js",
+    "service-worker.js": "/WarcraftOneLove/service-worker.js",
+    "static/css/main.0040fbea.chunk.css.map": "/WarcraftOneLove/static/css/main.0040fbea.chunk.css.map",
+    "static/js/2.e1225c87.chunk.js.LICENSE.txt": "/WarcraftOneLove/static/js/2.e1225c87.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/WarcraftOneLove/static/media/fons-ork.27154173.webp",
+    "static/media/ForMS.css": "/WarcraftOneLove/static/media/elf-borders.cc66e086.png",
+    "static/media/SlotInMainSlot.css": "/WarcraftOneLove/static/media/human-borders.0eb8aca5.png",
+    "static/media/Head.css": "/WarcraftOneLove/static/media/orb-borders.70c0b19d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.117c85a7.js",
+    "static/js/2.e1225c87.chunk.js",
+    "static/css/main.0040fbea.chunk.css",
+    "static/js/main.061cbed3.chunk.js"
+  ]
+}

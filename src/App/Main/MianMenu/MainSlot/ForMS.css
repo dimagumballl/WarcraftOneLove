@@ -1,0 +1,33 @@
+.FullSlot{
+    width: 1087px;
+    border: 30px solid transparent;
+    height: 250px;
+  border-image: url(../../../../common/imgstyle/Images/elf-borders.png) 35 round;
+  background-image: none;
+  margin: auto;
+}
+
+.MainSlotbutton{
+  background-image: none;
+  background-color: rgba(0, 0, 0, 0.616);
+  font-size: 30px;
+  margin-left: -1px;
+  font-family: WarcraftFont;
+  margin-bottom: -4px;
+  color: gold;
+  width: 237px;
+  height: 100%;
+  float: left;
+}
+.MainSlotbutton:hover{
+  color: white;
+  background-image: none;
+}
+.FullSlot>.Backg{
+  background-color: rgba(78, 50, 50, 0);
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  margin-bottom: -4px;
+  padding: 0;
+}

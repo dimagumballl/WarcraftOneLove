@@ -1,0 +1,31 @@
+.smoleSlot{
+    border: 10px solid transparent;
+    border-image: url(../../../../../common/imgstyle/Images/human-borders.png) 35 round;
+    width: 150px;
+    height: 230px;
+    float: left;
+    background-color: black;
+}
+.smoleSlot>button{
+    background-image: none;
+    background-color: black;
+    border-top:0.5px solid gold;
+    margin: 0;
+    width: 100%;
+    height: 40px;
+    font-size: 25px;
+}
+.smoleSlot>button:hover{
+    color: white;
+}
+.smoleSlot>p{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 10px;
+    height: 10px;
+    overflow: hidden;
+}
+.smoleSlot>img{
+    width: 100%;
+    height: 150;
+    margin-bottom: -10px;
+}

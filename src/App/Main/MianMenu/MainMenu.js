@@ -1,6 +1,6 @@
 import React from 'react'
 import '../Main.css'
-import MainSlot from '../../../JScomponent/Slot/MainSlot'
+import MainSlot from './MainSlot/MainSlot'
 import Maps from "./Maps"
 
 function MainMenu(){

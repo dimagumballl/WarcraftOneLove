@@ -10,17 +10,3 @@
 li{
     display: inline-block;
 }
-button{
-    background-image: url(../../common/imgstyle/Images/red-button.png);
-    background-size: cover;
-    border: none;
-    font-size: 30px;
-    margin-left: 15px;
-    font-family: WarcraftFont;
-    color: yellow;
-    width: 237px;
-    height: 60px;
-}
-button:hover{
-    background-image: url(../../common/imgstyle/Images/green-button.png);
-}

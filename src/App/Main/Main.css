@@ -1,8 +1,14 @@
 .Main{
   
-    height: 80%;
+  height: 100%;
 
     border: 35px solid transparent;
   border-image: url(../../common/imgstyle/Images/orb-borders.png) 35 round;
   background-image: none;
+}
+.Main>.Backg{
+  height: 100%;
+  background-color: rgba(78, 50, 50, 0.527);
+  margin: -6px;
+  padding: 6px;
 }

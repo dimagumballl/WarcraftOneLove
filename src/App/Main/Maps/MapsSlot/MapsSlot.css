@@ -1,0 +1,51 @@
+.MapsSlot{
+    border: none;
+    border-bottom: 10px solid transparent;
+    border-image: url(../../../../common/imgstyle/Images/undead-borders.png) 35 round;
+}
+.MapsSlotInfo{
+    display: inline-block;
+    vertical-align: top;
+    float: right;
+    width: 80%;
+}
+.MapsSlotInfo>h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: right;
+    vertical-align: top;
+    display: inline-block;
+}
+.MapsImg{
+    width: 20%;
+    border: 10px solid transparent;
+    border-image: url(../../../../common/imgstyle/Images/human-borders.png) 35 round;
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+.MapsImg>img{
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+}
+.Description{
+    margin-left: 20px;
+    vertical-align: top;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    float: right;
+}
+.Description>li{
+    display: block;
+}
+.MapsSlot>a>button{
+    width: 100%;
+    background-image: none;
+    background-color: black;
+    margin-left: 0;
+}
+.MapsSlot>a>button:hover{
+    color: white;
+}

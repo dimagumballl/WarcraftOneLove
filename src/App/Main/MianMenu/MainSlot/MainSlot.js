@@ -1,26 +1,24 @@
 import React from 'react'
 import './ForMS.css'
 import SlotInMainSlot from './SlotInMainSlot/SlotInMainSlot'
+import {Link} from 'react-router-dom'
 
 function MainSlot({Data}){
     return(
         <div className="FullSlot">
             <div className="Backg">
-                <button className="MainSlotbutton">{Data.name}</button>
+            <Link to={Data.path}><button className="MainSlotbutton">{Data.name}</button></Link>
                 {Data.map.map(({
                     id,
                     name,
-                    description,
                     img,
-                    way
                 })=>(
                     <SlotInMainSlot
                     key={id}
                     id={id}
                     name={name}
-                    description={description}
                     img={img}
-                    way={way}
+                    path={Data.path}
                 />
                 ))}
                 

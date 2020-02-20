@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32a2e18dfd157a3a7420e6075013fdff",
+    "revision": "f22654b79436862bea2bcc6b77b135f8",
     "url": "/WarcraftOneLove/index.html"
   },
   {
-    "revision": "014eff9fdd1382e38e32",
-    "url": "/WarcraftOneLove/static/css/main.44803418.chunk.css"
+    "revision": "e692e9757dbf902e2aa9",
+    "url": "/WarcraftOneLove/static/css/main.490578ec.chunk.css"
   },
   {
     "revision": "17345c4d6553a442d300",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WarcraftOneLove/static/js/2.2d608bb4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "014eff9fdd1382e38e32",
-    "url": "/WarcraftOneLove/static/js/main.a4451b73.chunk.js"
+    "revision": "e692e9757dbf902e2aa9",
+    "url": "/WarcraftOneLove/static/js/main.2c54054a.chunk.js"
   },
   {
     "revision": "5dab5a004055604f3163",
@@ -42,5 +42,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "70c0b19d6ae7d51bf05ae7bf6c16280c",
     "url": "/WarcraftOneLove/static/media/orb-borders.70c0b19d.png"
+  },
+  {
+    "revision": "3087bb2414d9d3e34656e98861e52419",
+    "url": "/WarcraftOneLove/static/media/undead-borders.3087bb24.png"
   }
 ]);

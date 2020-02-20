@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/WarcraftOneLove/precache-manifest.74ba388b310dcfc1eb5bf355a902c22e.js"
+  "/WarcraftOneLove/precache-manifest.b0f82588a5192a9fc2e951463b7859a3.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -15,6 +15,7 @@ function MainSlot({Data}){
                     way
                 })=>(
                     <SlotInMainSlot
+                    key={id}
                     id={id}
                     name={name}
                     description={description}

@@ -8,13 +8,17 @@
     "@testing-library/user-event": "^7.2.1",
     "cheerio": "^1.0.0-rc.3",
     "dnode": "^1.2.2",
+    "gh-pages": "^2.2.0",
     "node-php-server": "^0.1.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.0"
   },
+  "homepage": "https://dimagumballl.github.io/WarcraftOneLove",
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

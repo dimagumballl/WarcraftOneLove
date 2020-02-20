@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/WarcraftOneLove/static/css/main.490578ec.chunk.css",
-    "main.js": "/WarcraftOneLove/static/js/main.2c54054a.chunk.js",
-    "main.js.map": "/WarcraftOneLove/static/js/main.2c54054a.chunk.js.map",
+    "main.css": "/WarcraftOneLove/static/css/main.3b056087.chunk.css",
+    "main.js": "/WarcraftOneLove/static/js/main.f0f66289.chunk.js",
+    "main.js.map": "/WarcraftOneLove/static/js/main.f0f66289.chunk.js.map",
     "runtime-main.js": "/WarcraftOneLove/static/js/runtime-main.117c85a7.js",
     "runtime-main.js.map": "/WarcraftOneLove/static/js/runtime-main.117c85a7.js.map",
-    "static/js/2.2d608bb4.chunk.js": "/WarcraftOneLove/static/js/2.2d608bb4.chunk.js",
-    "static/js/2.2d608bb4.chunk.js.map": "/WarcraftOneLove/static/js/2.2d608bb4.chunk.js.map",
+    "static/js/2.01188b35.chunk.js": "/WarcraftOneLove/static/js/2.01188b35.chunk.js",
+    "static/js/2.01188b35.chunk.js.map": "/WarcraftOneLove/static/js/2.01188b35.chunk.js.map",
     "index.html": "/WarcraftOneLove/index.html",
-    "precache-manifest.b0f82588a5192a9fc2e951463b7859a3.js": "/WarcraftOneLove/precache-manifest.b0f82588a5192a9fc2e951463b7859a3.js",
+    "precache-manifest.55ea57c90fe3dcd2824135989f5c0101.js": "/WarcraftOneLove/precache-manifest.55ea57c90fe3dcd2824135989f5c0101.js",
     "service-worker.js": "/WarcraftOneLove/service-worker.js",
-    "static/css/main.490578ec.chunk.css.map": "/WarcraftOneLove/static/css/main.490578ec.chunk.css.map",
-    "static/js/2.2d608bb4.chunk.js.LICENSE.txt": "/WarcraftOneLove/static/js/2.2d608bb4.chunk.js.LICENSE.txt",
+    "static/css/main.3b056087.chunk.css.map": "/WarcraftOneLove/static/css/main.3b056087.chunk.css.map",
+    "static/js/2.01188b35.chunk.js.LICENSE.txt": "/WarcraftOneLove/static/js/2.01188b35.chunk.js.LICENSE.txt",
     "static/media/style.css": "/WarcraftOneLove/static/media/fons-ork.27154173.webp",
     "static/media/ForMS.css": "/WarcraftOneLove/static/media/elf-borders.cc66e086.png",
     "static/media/MapsSlot.css": "/WarcraftOneLove/static/media/undead-borders.3087bb24.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.117c85a7.js",
-    "static/js/2.2d608bb4.chunk.js",
-    "static/css/main.490578ec.chunk.css",
-    "static/js/main.2c54054a.chunk.js"
+    "static/js/2.01188b35.chunk.js",
+    "static/css/main.3b056087.chunk.css",
+    "static/js/main.f0f66289.chunk.js"
   ]
 }

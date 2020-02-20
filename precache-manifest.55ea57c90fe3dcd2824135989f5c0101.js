@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f22654b79436862bea2bcc6b77b135f8",
+    "revision": "93af14e44b045f1eeae15fdc879b7160",
     "url": "/WarcraftOneLove/index.html"
   },
   {
-    "revision": "e692e9757dbf902e2aa9",
-    "url": "/WarcraftOneLove/static/css/main.490578ec.chunk.css"
+    "revision": "61680858bc9febbb1e82",
+    "url": "/WarcraftOneLove/static/css/main.3b056087.chunk.css"
   },
   {
-    "revision": "17345c4d6553a442d300",
-    "url": "/WarcraftOneLove/static/js/2.2d608bb4.chunk.js"
+    "revision": "b2eda6bb96942bbc53d7",
+    "url": "/WarcraftOneLove/static/js/2.01188b35.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/WarcraftOneLove/static/js/2.2d608bb4.chunk.js.LICENSE.txt"
+    "url": "/WarcraftOneLove/static/js/2.01188b35.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e692e9757dbf902e2aa9",
-    "url": "/WarcraftOneLove/static/js/main.2c54054a.chunk.js"
+    "revision": "61680858bc9febbb1e82",
+    "url": "/WarcraftOneLove/static/js/main.f0f66289.chunk.js"
   },
   {
     "revision": "5dab5a004055604f3163",

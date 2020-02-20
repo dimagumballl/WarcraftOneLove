@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/WarcraftOneLove/static/css/main.44803418.chunk.css",
-    "main.js": "/WarcraftOneLove/static/js/main.8e63d42e.chunk.js",
-    "main.js.map": "/WarcraftOneLove/static/js/main.8e63d42e.chunk.js.map",
+    "main.js": "/WarcraftOneLove/static/js/main.a4451b73.chunk.js",
+    "main.js.map": "/WarcraftOneLove/static/js/main.a4451b73.chunk.js.map",
     "runtime-main.js": "/WarcraftOneLove/static/js/runtime-main.117c85a7.js",
     "runtime-main.js.map": "/WarcraftOneLove/static/js/runtime-main.117c85a7.js.map",
-    "static/js/2.e1225c87.chunk.js": "/WarcraftOneLove/static/js/2.e1225c87.chunk.js",
-    "static/js/2.e1225c87.chunk.js.map": "/WarcraftOneLove/static/js/2.e1225c87.chunk.js.map",
+    "static/js/2.2d608bb4.chunk.js": "/WarcraftOneLove/static/js/2.2d608bb4.chunk.js",
+    "static/js/2.2d608bb4.chunk.js.map": "/WarcraftOneLove/static/js/2.2d608bb4.chunk.js.map",
     "index.html": "/WarcraftOneLove/index.html",
-    "precache-manifest.867c4dd689a7d99ebf511a020228f1fd.js": "/WarcraftOneLove/precache-manifest.867c4dd689a7d99ebf511a020228f1fd.js",
+    "precache-manifest.74ba388b310dcfc1eb5bf355a902c22e.js": "/WarcraftOneLove/precache-manifest.74ba388b310dcfc1eb5bf355a902c22e.js",
     "service-worker.js": "/WarcraftOneLove/service-worker.js",
     "static/css/main.44803418.chunk.css.map": "/WarcraftOneLove/static/css/main.44803418.chunk.css.map",
-    "static/js/2.e1225c87.chunk.js.LICENSE.txt": "/WarcraftOneLove/static/js/2.e1225c87.chunk.js.LICENSE.txt",
+    "static/js/2.2d608bb4.chunk.js.LICENSE.txt": "/WarcraftOneLove/static/js/2.2d608bb4.chunk.js.LICENSE.txt",
     "static/media/style.css": "/WarcraftOneLove/static/media/fons-ork.27154173.webp",
     "static/media/ForMS.css": "/WarcraftOneLove/static/media/elf-borders.cc66e086.png",
     "static/media/SlotInMainSlot.css": "/WarcraftOneLove/static/media/human-borders.0eb8aca5.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.117c85a7.js",
-    "static/js/2.e1225c87.chunk.js",
+    "static/js/2.2d608bb4.chunk.js",
     "static/css/main.44803418.chunk.css",
-    "static/js/main.8e63d42e.chunk.js"
+    "static/js/main.a4451b73.chunk.js"
   ]
 }

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/WarcraftOneLove/static/css/main.0040fbea.chunk.css",
-    "main.js": "/WarcraftOneLove/static/js/main.62da53c7.chunk.js",
-    "main.js.map": "/WarcraftOneLove/static/js/main.62da53c7.chunk.js.map",
+    "main.css": "/WarcraftOneLove/static/css/main.44803418.chunk.css",
+    "main.js": "/WarcraftOneLove/static/js/main.c85139b8.chunk.js",
+    "main.js.map": "/WarcraftOneLove/static/js/main.c85139b8.chunk.js.map",
     "runtime-main.js": "/WarcraftOneLove/static/js/runtime-main.117c85a7.js",
     "runtime-main.js.map": "/WarcraftOneLove/static/js/runtime-main.117c85a7.js.map",
     "static/js/2.e1225c87.chunk.js": "/WarcraftOneLove/static/js/2.e1225c87.chunk.js",
     "static/js/2.e1225c87.chunk.js.map": "/WarcraftOneLove/static/js/2.e1225c87.chunk.js.map",
     "index.html": "/WarcraftOneLove/index.html",
-    "precache-manifest.e1e4b95d67d3c79b393cf491188b0cf8.js": "/WarcraftOneLove/precache-manifest.e1e4b95d67d3c79b393cf491188b0cf8.js",
+    "precache-manifest.ae9789e04fcae1fce7397f5bb2342cbe.js": "/WarcraftOneLove/precache-manifest.ae9789e04fcae1fce7397f5bb2342cbe.js",
     "service-worker.js": "/WarcraftOneLove/service-worker.js",
-    "static/css/main.0040fbea.chunk.css.map": "/WarcraftOneLove/static/css/main.0040fbea.chunk.css.map",
+    "static/css/main.44803418.chunk.css.map": "/WarcraftOneLove/static/css/main.44803418.chunk.css.map",
     "static/js/2.e1225c87.chunk.js.LICENSE.txt": "/WarcraftOneLove/static/js/2.e1225c87.chunk.js.LICENSE.txt",
     "static/media/style.css": "/WarcraftOneLove/static/media/fons-ork.27154173.webp",
     "static/media/ForMS.css": "/WarcraftOneLove/static/media/elf-borders.cc66e086.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.117c85a7.js",
     "static/js/2.e1225c87.chunk.js",
-    "static/css/main.0040fbea.chunk.css",
-    "static/js/main.62da53c7.chunk.js"
+    "static/css/main.44803418.chunk.css",
+    "static/js/main.c85139b8.chunk.js"
   ]
 }

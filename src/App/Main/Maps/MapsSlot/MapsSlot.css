@@ -2,6 +2,7 @@
     border: none;
     border-bottom: 10px solid transparent;
     border-image: url(../../../../common/imgstyle/Images/undead-borders.png) 35 round;
+    background-color: black;
 }
 .MapsSlotInfo{
     display: inline-block;

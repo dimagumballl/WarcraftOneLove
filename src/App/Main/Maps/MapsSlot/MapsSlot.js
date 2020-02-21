@@ -17,11 +17,10 @@ function MapsSlot({
             <div className="MapsSlotInfo">
                 <h2>{name}</h2>
                 <div className="Description" dangerouslySetInnerHTML={{__html:description}}>
-                
+                        
                 </div>
-                
             </div>
-            <Link download={way}><button>download</button></Link>
+            <Link href={way} download><button>download</button></Link>
         </div>
     )
 }

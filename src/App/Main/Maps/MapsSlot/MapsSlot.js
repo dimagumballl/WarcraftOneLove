@@ -20,7 +20,7 @@ function MapsSlot({
                         
                 </div>
             </div>
-            <Link href={way} download><button>download</button></Link>
+            <a href={way} download><button>download</button></a>
         </div>
     )
 }

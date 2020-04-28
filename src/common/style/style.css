@@ -24,10 +24,12 @@ button{
     width: 237px;
     height: 60px;
     cursor: pointer;
+    outline: none;
 }
 button:hover{
     background-image: url(../../common/imgstyle/Images/green-button.png);
 }
+
 .Backg{
     height: 100%;
     background-color: rgba(78, 50, 50, 0.527);
